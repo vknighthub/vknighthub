@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/vknighthub.svg" width="1200" alt="vknighthub-official" />
+  <img src="vknighthub.svg" width="1200" alt="vknighthub-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
