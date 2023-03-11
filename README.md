@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
   <img src="vknighthub.svg" width="1200" alt="vknighthub-official" />
 </a>
